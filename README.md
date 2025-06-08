@@ -1,6 +1,7 @@
 Started in 1.16(Nether Update)
  - Achivements are disabled
  - did use bugs to make hole in nether roof and illegal weapon enchants
+ - [World Download (Bedrock Edition)](https://8bhto6brll.ufs.sh/f/rdzFDZhyT0MKKFmc3lsskUQfp0IEM1tbxzO2dwXCTiLPHyaj)
 
 Things i did
  - huge Nether Portal and Hub
